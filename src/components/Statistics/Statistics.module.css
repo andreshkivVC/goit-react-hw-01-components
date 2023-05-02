@@ -1,0 +1,29 @@
+.statistics {
+  padding: 20px;
+  background-color: rgb(205, 228, 252);
+}
+
+.title {
+  text-align: center;
+  padding: 20px;
+}
+
+.list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.item {
+  padding: 20px;
+  background-color: rgb(240, 240, 255);
+}
+
+.label {
+  display: block;
+}
+
+.percentage {
+  display: block;
+}
